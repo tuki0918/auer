@@ -1,0 +1,19 @@
+{
+    "name": "tuki0918/auer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yuta Yamamoto",
+            "email": "tuki0918@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "monolog/monolog": "~1.18"
+    },
+    "autoload": {
+        "psr-4": {
+            "Auer\\Log\\": "src/"
+        }
+    }
+}
