@@ -1,6 +1,7 @@
-[![Latest Stable Version](https://poser.pugx.org/tuki0918/auer/v/stable)](https://packagist.org/packages/tuki0918/auer) 
-[![Total Downloads](https://poser.pugx.org/tuki0918/auer/downloads)](https://packagist.org/packages/tuki0918/auer) 
-[![Latest Unstable Version](https://poser.pugx.org/tuki0918/auer/v/unstable)](https://packagist.org/packages/tuki0918/auer) 
+[![Build Status](https://travis-ci.org/tuki0918/auer.svg?branch=master)](https://travis-ci.org/tuki0918/auer)
+[![Latest Stable Version](https://poser.pugx.org/tuki0918/auer/v/stable)](https://packagist.org/packages/tuki0918/auer)
+[![Total Downloads](https://poser.pugx.org/tuki0918/auer/downloads)](https://packagist.org/packages/tuki0918/auer)
+[![Latest Unstable Version](https://poser.pugx.org/tuki0918/auer/v/unstable)](https://packagist.org/packages/tuki0918/auer)
 [![License](https://poser.pugx.org/tuki0918/auer/license)](https://packagist.org/packages/tuki0918/auer)
 
 ## Basic Usage
