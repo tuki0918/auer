@@ -4,6 +4,10 @@
         bootstrap="vendor/autoload.php"
         colors="true"
 >
+    <php>
+        <ini name="error_reporting" value="E_ALL" />
+    </php>
+
     <testsuites>
         <testsuite name="Application Test Suite">
             <directory>./tests/</directory>
