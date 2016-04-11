@@ -8,4 +8,8 @@ before_script:
   - composer install --prefer-source --no-interaction --dev
 
 script:
-  - phpunit
+  - mkdir -m 777 -p build/logs
+  - vendor/bin/phpunit --coverage-clover build/logs/clover.xml
+
+after_success:
+  - travis_retry php vendor/bin/coveralls -v
